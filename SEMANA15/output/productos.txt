@@ -1,0 +1,12 @@
+ID: 301
+Descripción: Laptop
+Tipo: Electrónico
+Fecha de Producto: 2024-03-01
+Precio: $1200
+
+ID: 302
+Descripción: Smartphone
+Tipo: Electrónico
+Fecha de Producto: 2024-03-02
+Precio: $800
+
